@@ -1,1 +1,1 @@
-# docs
+# Skore Docs
